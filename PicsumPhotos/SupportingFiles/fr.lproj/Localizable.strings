@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  PhotoItApp
+
+  Created by Ashish Patel on 1/22/23.
+  
+*/
+
+// App name
+"appName.Photo" = "Photos";
+
+// App errors
+"app.noInternet.error" = "Internet non disponible.";
+"app.invalidResponse.error" = "Réponse invalide.";
+"app.unknownError.error" = "Erreur inconnue.";
+
+// Photo List
+"photoList.title" = "Photos";
+
+// Photo Details
+"photoList.details.title" = "Photos du gâteau";
+
+//Alert
+"alert.okButton.title" = "D'ACCORD";
+"spinner.loading" = "Chargement ...";
